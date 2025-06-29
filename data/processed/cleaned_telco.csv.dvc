@@ -1,0 +1,5 @@
+outs:
+- md5: 415289f21f56cf7172b7400cd2a88375
+  size: 354273
+  hash: md5
+  path: cleaned_telco.csv
